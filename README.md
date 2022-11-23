@@ -2,7 +2,7 @@
 
 ## Description
 
-* Lemon Tea is J2EE web application to manage tea shop activities using Java Web, MS SQL, Ant, Tomcat 8, Bootstrap, CSS, Google OAuth2 API, MVC 2 architecture
+* Lemon Tea is J2EE web application to manage tea shop activities using Java Web, MS SQL, Ant, Tomcat 8, Bootstrap, CSS, Google OAuth2 API, Google reCAPTCHA v3, MVC 2 architecture
 * This website works only on desktop
 
 ## Screenshoots
